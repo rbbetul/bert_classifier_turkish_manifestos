@@ -11,4 +11,4 @@ CHP (Republican People's Party)
 AKP (Justice and Development Party)
 HDP/BDP/Dem Parti (People's Democratic Party)
 
-This project is submitted for the Computational Linguistics Course Final Project at Saarland University
+This project is submitted for the Computational Linguistics Course Final Project
